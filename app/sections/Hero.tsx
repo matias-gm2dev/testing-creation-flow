@@ -33,6 +33,7 @@ export const Hero = ({cms}: any) => {
 
         <div className="absolute inset-0 bg-gray-500 opacity-50" />
       </div>
+      <div>Parrafo de prueba</div>
     </div>
   );
 };
